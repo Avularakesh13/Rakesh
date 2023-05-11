@@ -1,0 +1,98 @@
+2023-05-09 15:36:15,670 INFO  [Log]  Application Opened 
+2023-05-09 15:36:16,932 INFO  [Log] login complited 
+2023-05-09 15:36:17,168 INFO  [Log] logout complited 
+2023-05-09 15:36:17,730 INFO  [Log]  Application close 
+2023-05-09 15:37:20,602 INFO  [Log]  Application Opened 
+2023-05-09 15:37:21,821 INFO  [Log] login complited 
+2023-05-09 15:37:22,316 INFO  [Log] logout complited 
+2023-05-09 15:37:22,986 INFO  [Log]  Application close 
+2023-05-09 15:37:25,708 INFO  [Log]  Application Opened 
+2023-05-09 15:37:27,022 INFO  [Log] login complited 
+2023-05-09 15:37:27,034 INFO  [Log] fremopen 
+2023-05-09 15:37:31,455 INFO  [Log] new  emp added 
+2023-05-09 15:37:31,474 INFO  [Log] frame close 
+2023-05-09 15:37:31,707 INFO  [Log] logout complited 
+2023-05-09 15:37:32,370 INFO  [Log]  Application close 
+2023-05-09 15:46:33,878 INFO  [Log]  Application Opened 
+2023-05-09 15:46:35,071 INFO  [Log] login complited 
+2023-05-09 15:46:35,576 INFO  [Log] logout complited 
+2023-05-09 15:46:36,141 INFO  [Log]  Application close 
+2023-05-09 15:46:38,605 INFO  [Log]  Application Opened 
+2023-05-09 15:46:39,670 INFO  [Log] login complited 
+2023-05-09 15:46:39,683 INFO  [Log] fremopen 
+2023-05-09 16:01:41,169 INFO  [Log]  Application Opened 
+2023-05-09 16:01:42,682 INFO  [Log] login complited 
+2023-05-09 16:01:42,918 INFO  [Log] logout complited 
+2023-05-09 16:01:43,571 INFO  [Log]  Application close 
+2023-05-09 16:01:46,561 INFO  [Log]  Application Opened 
+2023-05-09 16:01:50,952 INFO  [Log] login complited 
+2023-05-09 16:01:50,970 INFO  [Log] fremopen 
+2023-05-09 16:02:00,246 INFO  [Log] new  emp added 
+2023-05-09 16:02:00,264 INFO  [Log] frame close 
+2023-05-09 16:02:00,509 INFO  [Log] logout complited 
+2023-05-09 16:02:01,032 INFO  [Log]  Application close 
+2023-05-09 16:02:03,610 INFO  [Log]  Application Opened 
+2023-05-09 16:02:05,741 INFO  [Log] login complited 
+2023-05-09 16:02:05,753 INFO  [Log] fremopen 
+2023-05-09 16:02:13,800 INFO  [Log] new  emp added 
+2023-05-09 16:02:17,604 INFO  [Log]  employee details edid 
+2023-05-09 16:02:17,618 INFO  [Log] frame close 
+2023-05-09 16:02:17,862 INFO  [Log] logout complited 
+2023-05-09 16:02:18,426 INFO  [Log]  Application close 
+2023-05-10 14:28:00,428 INFO  [Log]  Application Opened 
+2023-05-10 14:28:02,375 INFO  [Log] login complited 
+2023-05-10 14:28:02,623 INFO  [Log] logout complited 
+2023-05-10 14:28:03,399 INFO  [Log]  Application close 
+2023-05-10 14:53:53,871 INFO  [Log]  Application Opened 
+2023-05-10 14:53:55,746 INFO  [Log] login complited 
+2023-05-10 14:53:55,993 INFO  [Log] logout complited 
+2023-05-10 14:53:56,709 INFO  [Log]  Application close 
+2023-05-10 14:54:00,320 INFO  [Log]  Application Opened 
+2023-05-10 14:54:02,118 INFO  [Log] login complited 
+2023-05-10 14:54:02,147 INFO  [Log] fremopen 
+2023-05-10 15:23:05,716 INFO  [Log]  Application Opened 
+2023-05-10 15:23:07,683 INFO  [Log] login complited 
+2023-05-10 15:23:07,940 INFO  [Log] logout complited 
+2023-05-10 15:23:09,604 INFO  [Log]  Application close 
+2023-05-10 15:23:12,905 INFO  [Log]  Application Opened 
+2023-05-10 15:23:14,698 INFO  [Log] login complited 
+2023-05-10 15:23:14,727 INFO  [Log] fremopen 
+2023-05-10 15:23:17,854 INFO  [Log] new  emp added 
+2023-05-10 15:23:17,861 INFO  [Log] frame close 
+2023-05-10 15:23:18,099 INFO  [Log] logout complited 
+2023-05-10 15:23:19,520 INFO  [Log]  Application close 
+2023-05-10 15:26:28,430 INFO  [Log]  Application Opened 
+2023-05-10 15:26:33,388 INFO  [Log] login complited 
+2023-05-10 15:26:33,644 INFO  [Log] logout complited 
+2023-05-10 15:26:34,850 INFO  [Log]  Application close 
+2023-05-10 15:26:38,816 INFO  [Log]  Application Opened 
+2023-05-10 15:26:41,250 INFO  [Log] login complited 
+2023-05-10 15:26:41,275 INFO  [Log] fremopen 
+2023-05-10 15:26:47,746 INFO  [Log] new  emp added 
+2023-05-10 15:26:47,795 INFO  [Log] frame close 
+2023-05-10 15:26:48,085 INFO  [Log] logout complited 
+2023-05-10 15:26:49,114 INFO  [Log]  Application close 
+2023-05-10 15:34:28,592 INFO  [Log]  Application Opened 
+2023-05-10 15:34:30,095 INFO  [Log] login complited 
+2023-05-10 15:34:30,340 INFO  [Log] logout complited 
+2023-05-10 15:34:31,112 INFO  [Log]  Application close 
+2023-05-10 15:34:34,786 INFO  [Log]  Application Opened 
+2023-05-10 15:34:36,457 INFO  [Log] login complited 
+2023-05-10 15:34:36,475 INFO  [Log] fremopen 
+2023-05-10 15:34:44,334 INFO  [Log] new  emp added 
+2023-05-10 15:34:44,351 INFO  [Log] frame close 
+2023-05-10 15:34:44,604 INFO  [Log] logout complited 
+2023-05-10 15:34:45,330 INFO  [Log]  Application close 
+2023-05-10 16:03:26,757 INFO  [Log]  Application Opened 
+2023-05-10 16:03:32,135 INFO  [Log] login complited 
+2023-05-10 16:03:52,408 INFO  [Log]  Application Opened 
+2023-05-10 16:04:22,521 INFO  [Log] login complited 
+2023-05-10 16:04:25,631 INFO  [Log]  Application Opened 
+2023-05-10 16:06:24,071 INFO  [Log]  Application Opened 
+2023-05-10 16:06:45,371 INFO  [Log] login complited 
+2023-05-10 16:06:45,401 INFO  [Log] fremopen 
+2023-05-10 16:08:31,161 INFO  [Log]  Application Opened 
+2023-05-10 16:09:42,901 INFO  [Log] login complited 
+2023-05-10 16:09:43,160 INFO  [Log] logout complited 
+2023-05-10 16:09:43,892 INFO  [Log]  Application close 
+2023-05-10 16:12:13,646 INFO  [Log]  Application Opened 
